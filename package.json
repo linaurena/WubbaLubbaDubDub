@@ -1,0 +1,26 @@
+{
+  "name": "wubbalubbadubdub",
+  "version": "1.0.0",
+  "description": "Asynchronism with Javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linaurena/WubbaLubbaDubDub.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promises",
+    "async",
+    "javascript",
+    "API"
+  ],
+  "author": "Lina María Ureña Bolivar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linaurena/WubbaLubbaDubDub/issues"
+  },
+  "homepage": "https://github.com/linaurena/WubbaLubbaDubDub#readme"
+}
